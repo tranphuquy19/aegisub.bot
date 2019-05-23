@@ -1,0 +1,33 @@
+{
+  "name": "aegisubbot",
+  "version": "1.0.0",
+  "description": "Bot messenger aegisub vietnam fanpage",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranphuquy19/AegisubVN.Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger"
+  ],
+  "author": "tranphuquy19",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranphuquy19/AegisubVN.Bot/issues"
+  },
+  "homepage": "https://github.com/tranphuquy19/AegisubVN.Bot#readme"
+}
